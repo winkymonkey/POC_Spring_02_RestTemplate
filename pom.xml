@@ -5,10 +5,10 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.example.spring.resttemplate</groupId>
-	<artifactId>201_Spring_RestTemplate</artifactId>
+	<artifactId>POC_Spring_02_RestTemplate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>201_Spring_RestTemplate</name>
+	<name>POC_Spring_02_RestTemplate</name>
 
 	<properties>
 		<java.version>1.8</java.version>
