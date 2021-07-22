@@ -1,4 +1,4 @@
-package com.example.spring.web;
+package org.example.spring.web;
 
 
 public class Person {

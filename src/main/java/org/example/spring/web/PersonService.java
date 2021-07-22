@@ -1,4 +1,4 @@
-package com.example.spring.web;
+package org.example.spring.web;
 
 import java.util.Arrays;
 import java.util.List;
